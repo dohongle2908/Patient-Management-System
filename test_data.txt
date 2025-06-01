@@ -1,0 +1,40 @@
+1000||12/04/1985|Nu|6:14|2
+1001|Tran Van Khanh|29/08/1978|Nam|6:30|1
+1002|Le Thi Hong|07/12/1990|Nu|7:34|3
+1003|Pham Minh Nhat|03/03/1982|Nam|8:23|2
+1004|Dang Thi Huong|22/05/1986|Nu|8:45|2
+1005|Bui Quang Hung|30/06/1988|Nam|9:05|1
+1006|Vu Thi Lan|25/09/1990|Nu|9:23|3
+1007|Do Van Tu|18/03/1983|Nam|9:45|2
+1008|Ho Ngoc Anh|02/02/1998|Nu|9:59|3
+1009|Do Minh Tuan|20/01/1977|Nam|10:23|2
+1010|Trinh Van Loc|04/01/1979|Nam|11:00|1
+1011|Luong Thi Ngoc|22/06/1991|Nu|11:15|2
+1012|Le Hoang Duong|14/08/1983|Nam|11:10|2
+1013|Tran Bich Thuy|28/03/1987|Nu|11:25|2
+1014|Le Van Tai|19/10/1996|Nam|13:08|3
+1015|Pham Thi Thao|12/12/1993|Nu|13:17|1
+1016|Vu Hong Son|05/05/1977|Nam|13:35|2
+1017|Dinh Kim Ngan|16/01/1986|Nu|13:50|3
+1018|Lai Van Tuong|08/09/1989|Nam|14:00|2
+1019|Ha Thi Thu|23/07/1994|Nu|14:13|1
+1020|Nguyen Thi Nhan|01/11/1974|Nu|14:34|2
+1021|Tran Van Hoa|26/02/1985|Nam|14:45|2
+1022|Le Thi Diem|09/09/1981|Nu|15:00|3
+1023|Pham Duc Hoa|10/10/1982|Nam|15:21|1
+1024|Bui Thi Mai Hoa|15/06/1990|Nu|15:25|3
+1025|Vu Hoang Nam|06/04/1976|Nam|15:30|2
+1026|Do Hoang Hanh|27/01/1997|Nu|15:35|1
+1027|Ho Van Bach|08/03/1980|Nam|15:45|2
+1028|Ngo Thi Tuyet Nhung|13/06/1985|Nu|15:50|2
+1029|Tran Dinh Phuc|17/12/1983|Nam|16:03|3
+1030|Le Van Dai|16/09/1982|Nam|16:17|2
+1031|Pham Yen Nhi|06/09/1984|Nu|16:35|2
+1032|Vu Duc Anh|09/06/1984|Nam|16:45|3
+1033|Le Thanh Hung|21/02/1985|Nam|16:50|2
+1034|Ha Thi Dung|25/09/1990|Nu|16:52|2
+1035|Nguyen Thai Hoc|16/07/1979|Nam|16:59|1
+1036|Tran Minh Hoang|12/11/1985|Nam|17:03|2
+1037|Le Tuyet Van|07/10/1986|Nu|17:20|2
+1038|Pham Quoc Thang|19/03/1987|Nam|18:32|1
+1039|Vu Thi Kim Oanh|30/01/1978|Nu|20:39|1
