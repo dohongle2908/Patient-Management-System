@@ -636,7 +636,7 @@ int main() {
                 insertLastPatientByPriority(allPatient, totalCount);
                 break;
             case 2:
-                readPatientsFromFile("datapatient1.txt", allPatient, &totalCount);
+                readPatientsFromFile("test_data.txt", allPatient, &totalCount);
                 break;
             case 3:
                 printPatientsByState(allPatient, totalCount);
@@ -651,7 +651,7 @@ int main() {
                 sortPatientsByPriority(allPatient, examinedCount, totalCount);
                 break;
             case 7:
-                writePatientsToTextFile("danhsach.txt", allPatient, totalCount);
+                writePatientsToTextFile("output_data.txt", allPatient, totalCount);
                 break;
             case 8:
                 callPatient(allPatient, &examinedCount, totalCount);
